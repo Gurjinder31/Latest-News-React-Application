@@ -1,6 +1,6 @@
 User interface of App:
 User interface of App-
-![News list](Weatherapplook.png)
+![News list](n1.png)
 
 *	Developed React application to display latest news.
 *	Fetching news headlines data from Newsapi.
