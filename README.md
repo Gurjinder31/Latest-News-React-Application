@@ -1,5 +1,4 @@
 User interface of App:
-User interface of App-
 ![News list](n1.png)
 
 *	Developed React application to display latest news.
